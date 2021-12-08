@@ -11,7 +11,10 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             Console.WriteLine(13);
-            Console.WriteLine(13);
+            Console.WriteLine(333333);
+            Console.WriteLine(333333);
+            Console.WriteLine(333333);
+            Console.WriteLine(333333);
             Console.WriteLine(13);
         }
     }
